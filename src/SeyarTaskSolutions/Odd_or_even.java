@@ -18,7 +18,7 @@ public class Odd_or_even {
 
             }
         }
-            // update
+
        public static void main(String[] args) {
             // Test the method
             System.out.println(identify(5));  // Output: "Odd"
