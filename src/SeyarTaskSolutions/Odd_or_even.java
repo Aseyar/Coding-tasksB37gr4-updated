@@ -9,10 +9,6 @@ public class Odd_or_even {
         identify(6) ->  "Even"
 
      */
-
-
-
-
         // Method to identify if a number is even or odd
         public static String identify(int number) {
             if (number % 2 == 0) {
